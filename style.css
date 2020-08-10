@@ -203,7 +203,11 @@ section {
 }
 
 .review-one {
-  background-image: url("images/profile-picture-one.jpg");
+  background-image: url("profile-picture-one.png");
+}
+
+.review-two {
+  background-image: url("profile-picture-two.png");
 }
 
 .personal-info {
@@ -229,7 +233,7 @@ section {
   font-size: 22px;
   font-weight: 300;
   letter-spacing: 0.1em;
-  color: #0095f7;
+  color: #62656a;
 }
 
 .pricing-box h6 {
@@ -258,7 +262,7 @@ section {
 
 .pricing-box span {
   font-weight: 500;
-  color: #0095f7;
+  color: #62656a;
 }
 
 .pricing-box small {
@@ -268,12 +272,12 @@ section {
 
 .pricing-box i {
   font-size: 20px;
-  color: #0095f7;
+  color: #62656a;
   margin-right: 10px;
 }
 
 .pricing-box .demo {
-  color: #6772e5 !important;
+  color: #62656a !important;
 }
 
 /* ==============================================
@@ -290,7 +294,7 @@ section {
 
 #marketing span {
   font-weight: 400;
-  color: #0095f7;
+  color: #62656a;
   text-transform: uppercase;
   letter-spacing: 0.05em;
 }
@@ -358,6 +362,10 @@ footer small {
 
 .external-links {
   color: #0095f7;
+}
+
+.btn-regular {
+  font-size: 13px;
 }
 
 /* MEDIA QUERY */
