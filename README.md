@@ -10,7 +10,7 @@ This "Landing-page" will be R H D E V S' one source of _public_ truth. Any other
 ## Future plans (Long Term)
 - AY20/21
   - Include Team Headshots
-  - Include "Landed interns in XX company" / "we are trusted by XX companies"
+  - Include "Landed interns in XX company" / "we are trusted by XX companies" and add "reviews" from hirers
 
 - AY21/22 
   - Include "worked with XX clients" (Target only one or two assignments MAX)
