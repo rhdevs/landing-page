@@ -1,7 +1,7 @@
 # landing-page
 Bootstrap landing page meant for recruitment purposes only. set-up in a rush to push for pubs. not a technical showcase of any sorts. Not representative of RHDEVS
 
-This "Landing-page" will be R H D E V S' one source of truth. Any other platforms are merely reflections of information on this page.
+This "Landing-page" will be R H D E V S' one source of _public_ truth. Any other platforms are merely reflections of information on this page.
 
 ## Future plans (Short Term)
 - **Aug 24 to Sep 1:** Ideation period (Crowd-source campaign)
